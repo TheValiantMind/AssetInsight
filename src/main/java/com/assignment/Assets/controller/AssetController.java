@@ -19,7 +19,7 @@ import java.util.List;
 
 /**
  * This is AssetController class for managing assets.
- * @author Karan
+ * @author V K Deewakar
  */
 @RestController
 @RequestMapping(Constant.ASSET_MAPPING)

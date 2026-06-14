@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 
 /**
  * This is InvalidRequestException class.
- * @author Karan
+ * @author V K Deewakar
  */
 @ResponseStatus(HttpStatus.BAD_REQUEST)
 public class InvalidRequestException extends RuntimeException {

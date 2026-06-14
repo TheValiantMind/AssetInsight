@@ -21,7 +21,7 @@ import java.util.Optional;
 
 /**
  * This is AssetServiceImpl implementation class.
- * @author Karan
+ * @author V K Deewakar
  */
 @Service
 public class AssetServiceImpl implements AssetService {

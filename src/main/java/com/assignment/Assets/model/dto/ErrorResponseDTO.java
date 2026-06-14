@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * DTO for Error Response Data.
- * @author Karan
+ * @author V K Deewakar
  */
 
 @Data

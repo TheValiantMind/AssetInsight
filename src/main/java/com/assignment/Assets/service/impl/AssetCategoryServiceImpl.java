@@ -17,7 +17,7 @@ import java.util.Optional;
 
 /**
  * This is AssetCategoryServiceImpl implementation class for manipulating assets categories.
- * @author Karan
+ * @author V K Deewakar
  */
 @Service
 public class AssetCategoryServiceImpl implements AssetCategoryService {

@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  * This is AssetCategoryController class for managing categories of assets.
- * @author Karan
+ * @author V K Deewakar
  */
 @RestController
 @RequestMapping(Constant.CATEGORY_MAPPING)

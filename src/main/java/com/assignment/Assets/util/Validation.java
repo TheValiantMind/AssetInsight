@@ -10,7 +10,7 @@ import com.assignment.Assets.model.dto.AssetRequestDTO;
 
 /**
  * This is Validation class for validating data.
- * @author Karan
+ * @author V K Deewakar
  */
 public class Validation {
 
